@@ -103,6 +103,10 @@ public class Bajas extends javax.swing.JFrame {
 
         jRadioButton3.setText("Producto mermado");
 
+        buttonGroup1.add(jRadioButton1);
+        buttonGroup1.add(jRadioButton2);
+        buttonGroup1.add(jRadioButton3);
+
         jLabel6.setFont(new java.awt.Font("Segoe UI", 1, 18)); // NOI18N
         jLabel6.setText("INFORMACION");
 
